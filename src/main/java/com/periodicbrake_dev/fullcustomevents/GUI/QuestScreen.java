@@ -1,9 +1,9 @@
-package com.periodicbrake_dev.fullcustomevents.GUI;
+package com.example.mod.client.screens;
 
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 
-public class QuestScreen extends Screen{
+public class QuestScreen extends Screen {
 
     public QuestScreen() {
         super(Component.literal("Quest Menu"));
@@ -27,5 +27,4 @@ public class QuestScreen extends Screen{
     public boolean isPauseScreen() {
         return false;
     }
-
 }
