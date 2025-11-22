@@ -11,12 +11,10 @@ public class QuestScreen extends Screen {
 
     @Override
     protected void init() {
-        // rien pour l'instant
     }
 
     @Override
     public void renderBackground() {
-        // rien
     }
 
     @Override
