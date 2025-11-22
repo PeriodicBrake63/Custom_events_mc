@@ -1,4 +1,4 @@
-package com.PeriodicBrake_dev.FullCustomEvents;
+package com.periodicbrake_dev.fullcustomevents;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;

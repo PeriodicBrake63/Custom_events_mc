@@ -1,4 +1,4 @@
-package com.PeriodicBrake_dev.FullCustomEvents;
+package com.periodicbrake_dev.fullcustomevents;
 
 import org.slf4j.Logger;
 
