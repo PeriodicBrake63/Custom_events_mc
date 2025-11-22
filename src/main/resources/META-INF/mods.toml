@@ -8,6 +8,7 @@ version="1.0.0"
 displayName="Full Custom Events" 
 authors="PeriodicBrake_dev"
 description='''FCE is a mod that allows you to create and manage custom events and quests for your multiplayer servers'''
+credits="Special thanks to Supernono2021 for the 45€"
 
 [[dependencies.${mod_id}]] 
     modId="forge"
