@@ -1,4 +1,4 @@
-package com.example.mod.client.screens;
+package com.periodicbrake_dev.fullcustomevents.GUI;
 
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
@@ -11,16 +11,12 @@ public class QuestScreen extends Screen {
 
     @Override
     protected void init() {
-        super.init();
-        // ici tu mettras tes boutons etc plus tard
+        // rien pour l'instant
     }
 
     @Override
-    public void render(net.minecraft.client.gui.GuiGraphics gfx, int mx, int my, float partialTicks) {
-        this.renderBackground(gfx);
-        super.render(gfx, mx, my, partialTicks);
-
-        gfx.drawString(this.font, "GUI VIDE 😎", this.width / 2 - 30, this.height / 2, 0xFFFFFF);
+    public void renderBackground() {
+        // rien
     }
 
     @Override
