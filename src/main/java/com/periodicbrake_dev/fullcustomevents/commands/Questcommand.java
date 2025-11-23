@@ -2,7 +2,9 @@ package com.periodicbrake_dev.fullcustomevents.commands;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.context.CommandContext;
+import com.periodicbrake_dev.fullcustomevents.GUI.QuestScreen;
 
+import net.minecraft.client.Minecraft;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
 import net.minecraft.network.chat.Component;
@@ -28,9 +30,10 @@ public class Questcommand {
 
     private static int openQuestMenu(CommandContext<CommandSourceStack> context){
         context.getSource().sendSuccess(
-            () -> Component.literal("command received: /quest menu"),
+            () -> Component.literal("opening quest menu"),
             false
         );
+        Minecraft.getInstance().setScreen(new QuestScreen());
         return 1;
     }
 }
