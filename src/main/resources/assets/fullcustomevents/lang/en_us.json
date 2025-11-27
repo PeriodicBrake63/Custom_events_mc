@@ -1,0 +1,17 @@
+{
+    "itemGroup.fullcustomevents": "Full Custom Events",
+    "event.fullcustomevents.slay": "Slay Event",
+    "event.fullcustomevents.mine": "Mining Event",
+    "event.fullcustomevents.farm": "Farming Event",
+    "event.fullcustomevents.bossfight": "Boss Fight Event",
+    "quest.fullcustomevents.slay_mobs": "Slay Mobs",
+    "quest.fullcustomevents.mine_blocks": "Mine Blocks",
+    "quest.fullcustomevents.farm_crops": "Farm Crops",
+    "event.fullcustomevents.slay.description": "Defeat enemies to earn rewards",
+    "event.fullcustomevents.mine.description": "Mine blocks to earn rewards",
+    "event.fullcustomevents.farm.description": "Farm crops to earn rewards",
+    "event.fullcustomevents.bossfight.description": "Defeat powerful bosses to earn rewards",
+    "quest.fullcustomevents.slay_mobs.description": "Slay 10 mobs",
+    "quest.fullcustomevents.mine_blocks.description": "Mine 50 blocks",
+    "quest.fullcustomevents.farm_crops.description": "Farm %d crops"
+}
