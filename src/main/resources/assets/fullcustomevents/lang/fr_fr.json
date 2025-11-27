@@ -11,7 +11,7 @@
     "event.fullcustomevents.mine.description": "Miner des blocs pour gagner des récompenses",
     "event.fullcustomevents.farm.description": "Cultiver des récoltes pour gagner des récompenses",
     "event.fullcustomevents.bossfight.description": "Vaincre des boss puissants pour gagner des récompenses",
-    "quest.fullcustomevents.slay_mobs.description": "Tuer 10 monstres",
-    "quest.fullcustomevents.mine_blocks.description": "Miner 50 blocs",
+    "quest.fullcustomevents.slay_mobs.description": "Tuer %d monstres",
+    "quest.fullcustomevents.mine_blocks.description": "Miner %d blocs",
     "quest.fullcustomevents.farm_crops.description": "Cultiver %d récoltes"
 }

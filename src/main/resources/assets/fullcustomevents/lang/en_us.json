@@ -11,7 +11,7 @@
     "event.fullcustomevents.mine.description": "Mine blocks to earn rewards",
     "event.fullcustomevents.farm.description": "Farm crops to earn rewards",
     "event.fullcustomevents.bossfight.description": "Defeat powerful bosses to earn rewards",
-    "quest.fullcustomevents.slay_mobs.description": "Slay 10 mobs",
-    "quest.fullcustomevents.mine_blocks.description": "Mine 50 blocks",
+    "quest.fullcustomevents.slay_mobs.description": "Slay %d mobs",
+    "quest.fullcustomevents.mine_blocks.description": "Mine %d blocks",
     "quest.fullcustomevents.farm_crops.description": "Farm %d crops"
 }
