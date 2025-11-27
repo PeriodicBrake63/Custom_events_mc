@@ -1,0 +1,17 @@
+{
+    "itemGroup.fullcustomevents": "Événements personnalisés complets",
+    "event.fullcustomevents.slay": "Événement : Élimination",
+    "event.fullcustomevents.mine": "Événement de minage",
+    "event.fullcustomevents.farm": "Événement d'agriculture",
+    "event.fullcustomevents.bossfight": "Combat de boss",
+    "quest.fullcustomevents.slay_mobs": "Tuer des monstres",
+    "quest.fullcustomevents.mine_blocks": "Miner des blocs",
+    "quest.fullcustomevents.farm_crops": "Cultiver des récoltes",
+    "event.fullcustomevents.slay.description": "Vaincre des ennemis pour gagner des récompenses",
+    "event.fullcustomevents.mine.description": "Miner des blocs pour gagner des récompenses",
+    "event.fullcustomevents.farm.description": "Cultiver des récoltes pour gagner des récompenses",
+    "event.fullcustomevents.bossfight.description": "Vaincre des boss puissants pour gagner des récompenses",
+    "quest.fullcustomevents.slay_mobs.description": "Tuer 10 monstres",
+    "quest.fullcustomevents.mine_blocks.description": "Miner 50 blocs",
+    "quest.fullcustomevents.farm_crops.description": "Cultiver %d récoltes"
+}
